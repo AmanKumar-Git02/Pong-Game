@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+}
+#circle{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(70, 70, 70);
+    border: border-box;
+    border-radius: 15px;
+    position: relative;
+}
+#line{
+    height: 20px;
+    width: 200px;
+    background-color: rgb(231, 231, 94);
+    position: relative;
+}
